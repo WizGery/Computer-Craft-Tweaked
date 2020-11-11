@@ -2,4 +2,4 @@
 
 programs for CC: Tweaked:
 
-Turtle Miner = WizLib.lua
+Turtle Miner Lib = WizLib.lua
